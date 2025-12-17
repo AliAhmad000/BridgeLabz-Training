@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class HeightConversion {
+    //main method starts here
     public static void main(String[] args) {
         double heightCm;
         double totalInches;

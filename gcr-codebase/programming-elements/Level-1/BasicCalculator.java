@@ -18,6 +18,7 @@ public class BasicCalculator {
         double multiplication = number1 * number2;
         double division = number1 / number2;
 
+        //printing output
         System.out.println(
             "The addition, subtraction, multiplication and division value of 2 numbers " +
             number1 + " and " + number2 + " is " +

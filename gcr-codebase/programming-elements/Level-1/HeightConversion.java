@@ -5,7 +5,6 @@ public class HeightConversion {
         double heightCm;
         double totalInches;
         int feet;
-        double inches;
 
         Scanner input = new Scanner(System.in);
 
@@ -14,7 +13,6 @@ public class HeightConversion {
 
         totalInches = heightCm / 2.54;   // convert cm to inches
         feet = (int) (totalInches / 12); // get feet
-        inches = totalInches % 12;       // remaining inches
 
         System.out.println( "Your Height in cm is " + heightCm + " while in feet is " + feet + " and inches is " + inches );
     }

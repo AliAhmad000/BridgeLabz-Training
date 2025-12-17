@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class HeightConversion {
+    //main method starts here
     public static void main(String[] args) {
         double heightCm;
         double totalInches;
@@ -14,6 +15,6 @@ public class HeightConversion {
         totalInches = heightCm / 2.54;   // convert cm to inches
         feet = (int) (totalInches / 12); // get feet
 
-        System.out.println( "Your Height in cm is " + heightCm + " while in feet is " + feet + " and inches is " + inches );
+        System.out.println( "Your Height in cm is " + heightCm + " while in feet is " + feet + " and inches is " + totalInches );
     }
 }

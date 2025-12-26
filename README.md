@@ -76,7 +76,6 @@
 
  ## Day 8 - Extra
 **Date:** 24-Dec-2025
-
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)

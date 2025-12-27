@@ -74,11 +74,15 @@
 - Implemented exception, checked or Unchecked exception
 - *Code Link:* [String](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
+---
+
  ## Day 8 - Extra
 *Date:* 24-Dec-2025
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - *Code Link:* [extras](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
 
 - ## Day 9 - Classes, Objects and Introduction to OOPs
 Date: 26-Dec-2025
@@ -87,3 +91,13 @@ Date: 26-Dec-2025
 - Understood how to define class structure and create objects
 - Started Implementing Object-Oriented Programming System (OOPS) concepts
 - Code Link: [classesandobjects](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+
+---
+
+-  ## Day 10 - Constructors & Access Modifiers
+*Date:* 27-Dec-2025
+
+- Practiced default, parameterized, non-parameterized, and copy constructors
+- Learned access modifiers in Java
+- Implemented instance methods
+- *Code Link:* [constructors-practice](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)

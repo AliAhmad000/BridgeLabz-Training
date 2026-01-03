@@ -1,0 +1,26 @@
+package com.smarthomeautomation;
+
+public class Light extends Appliance {
+
+    public Light() {
+        super(60); // default 60W
+    }
+
+    public Light(int watts) {
+        super(watts);
+    }
+
+    public void turnOn() {
+        setState(true);
+        System.out.println("Light is ON → Soft illumination started");
+    }
+
+    public void turnOff() {
+        setState(false);
+        System.out.println("Light is OFF");
+    }
+
+    public void deviceStatus() {
+        System.out.println("Light | Power: " + getPowerConsumption() + "W | State: " + isOn());
+    }
+}

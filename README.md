@@ -125,3 +125,15 @@ Date: 26-Dec-2025
 
 ---
 
+## Day 13 - Inheritance in Java
+*Date:* 31-Dec-2025
+- Practiced 5 scenario-based questions
+- *Code Link:* [Scenario Based](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase).
+- Implemented Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance (using interfaces)
+- Solved assisted inheritance-based problems for better clarity
+- *Code Link:* [Inheritance](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
+
+
+

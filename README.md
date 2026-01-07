@@ -143,4 +143,16 @@ Date: 26-Dec-2025
 - *Code Link:* [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
 - *Code Link:* [FourPillarsImplementation](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/fourpillarsimplementation)
 
+---
+
+## Day 15 - Linked List 
+*Date:* 02-Jan-2026
+
+- Learned the concept of Linked List and its importance
+- Studied types of linked lists: Singly, double and circular linked list
+- Understood node structure and memory allocation and practiced questions
+- Solved 5 Scenario Based Questions
+- *Code Link:* [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+- *Code Link:* [Linked List](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linkedlist)
+
 

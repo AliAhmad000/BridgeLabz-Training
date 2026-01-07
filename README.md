@@ -101,3 +101,13 @@ Date: 26-Dec-2025
 - Learned access modifiers in Java
 - Implemented instance methods
 - *Code Link:* [constructors-practice](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
+---
+
+## Day 11 - Static Members, this Keyword & instanceof Operator
+*Date:* 29-Dec-2025
+- Practiced 5 scenario-based questions
+- *Code Link:* [Scenario Based](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase).
+- Practiced questions on static variables, static methods and this keyword
+- Learned and implemented the instanceof operator
+- *Code Link:* [keywords](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)

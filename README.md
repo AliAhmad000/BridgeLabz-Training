@@ -111,3 +111,17 @@ Date: 26-Dec-2025
 - Practiced questions on static variables, static methods and this keyword
 - Learned and implemented the instanceof operator
 - *Code Link:* [keywords](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+
+---
+
+## Day 12 - Object Modeling in Java
+*Date:* 30-Dec-2025
+- Practiced 5 scenario-based questions
+- *Code Link:* [Scenario Based](https://github.com/AliAhmad000/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase).
+- Studied Object Modeling concepts
+- Understood Association between classes
+- Learned Aggregation (HAS-A relationship – weak coupling) and Composition (HAS-A relationship – strong coupling)
+- *Code Link:* [objectmodeling](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
+---
+

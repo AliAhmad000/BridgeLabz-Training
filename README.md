@@ -56,7 +56,9 @@
 
 ---
 
-  ## Day 6 - Methods
+## Week 2 – Core Java & Introduction to OOPs ##
+
+## Day 6 - Methods
 *Date:* 22-Dec-2025
 
 - Practiced UserDefined Methods, Using methods multiple times
@@ -103,6 +105,8 @@ Date: 26-Dec-2025
 - *Code Link:* [constructors-practice](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ---
+
+## Week 3 – OOPs Concepts & Data Structures Basics ##
 
 ## Day 11 - Static Members, this Keyword & instanceof Operator
 *Date:* 29-Dec-2025
@@ -154,5 +158,39 @@ Date: 26-Dec-2025
 - Solved 5 Scenario Based Questions
 - *Code Link:* [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
 - *Code Link:* [Linked List](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linkedlist)
+
+---
+
+## Day 16 - Stacks, Queues & Hash Maps
+*Date:* 03-Jan-2026
+
+- Learned best practices of Stacks and Queues and their real-world use cases
+- Practiced problems like Queue using Stacks, Stock Span, Sliding Window Maximum, and Circular Tour
+- Understood different queue types and safe handling of underflow/overflow
+- Worked with Hash Maps for efficient lookup using problems like Two Sum, Zero Sum Subarrays, and Longest Consecutive Sequence
+- *Code Link:* [StackandQueue](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/stackandqueue)
+- *Code Link:* [HashMap](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/hashmapsandhashfunctions)
+
+---
+## Week 4 – DSA & Advanced Java Concepts ##
+
+## Day 17 - Sorting Algorithms
+*Date:* 05-Jan-2026
+
+- Practiced multiple sorting algorithms using real-world problem statements
+- Implemented Bubble Sort, Selection Sort, and Insertion Sort for basic sorting logic
+- Worked with advanced sorting techniques like Merge Sort, Quick Sort, and Heap Sort
+- Learned Counting Sort for range-based data sorting
+
+---
+
+## Day 18 - Strings, File Handling & Searching Techniques
+*Date:* 06-Jan-2026
+
+- Practiced StringBuilder and StringBuffer with real-world problems like reversing strings, removing duplicates, and performance comparison
+- Worked on file handling using FileReader and InputStreamReader, including file reading, word counting, and handling encodings
+- Implemented Linear Search for unsorted data and simple search-based problems
+- Practiced Binary Search on sorted data for advanced cases like rotation point, peak element, and 2D matrix search
+- *Code Link:* [Searching Techniques](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
 
 

@@ -135,5 +135,12 @@ Date: 26-Dec-2025
 
 ---
 
+## Day 14 - Four Pillars Implementation
+*Date:* 01-Jan-2026
+- Learned and implemented Polymorphism (compile-time and runtime)
+- Practiced Abstraction using abstract classes along with encapsulation
+- Started solving scenario-based questions on OOPs concepts
+- *Code Link:* [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+- *Code Link:* [FourPillarsImplementation](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/fourpillarsimplementation)
 
 

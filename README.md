@@ -193,4 +193,17 @@ Date: 26-Dec-2025
 - Practiced Binary Search on sorted data for advanced cases like rotation point, peak element, and 2D matrix search
 - *Code Link:* [Searching Techniques](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
 
+---
+
+## Day 19 - Scenario Based
+Date: 07-Jan-2026
+- Solved 3 scenario based question
+- Scenarios Covered:
+ - ParkEase – Smart Parking Management System
+ - LoanBuddy – Loan Approval Automation
+ - BookBazaar – Digital Bookstore System
+- Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
 

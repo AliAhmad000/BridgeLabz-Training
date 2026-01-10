@@ -206,4 +206,12 @@ Date: 07-Jan-2026
 
 ---
 
+## Day 20 - Scenario Based
+Date: 08-Jan-2026
+- Solved 2 scenario based question
+  - Scenarios Covered:
+  - MediStore – Pharmacy Inventory & Sales System
+  - -TourMate – Travel Itinerary Planner
+- Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
 
+---

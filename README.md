@@ -101,5 +101,35 @@
 - EventEase – Event Management Platform
 - *Code Link:* [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
 
+---
+
+## Day 19 - Scenario Based
+Date: 07-Jan-2026
+- Solved 3 scenario based question
+- Scenarios Covered:
+ - ParkEase – Smart Parking Management System
+ - LoanBuddy – Loan Approval Automation
+ - BookBazaar – Digital Bookstore System
+- Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+## Day 20 - Scenario Based
+Date: 08-Jan-2026
+- Solved 2 scenario based question
+  - Scenarios Covered:
+  - MediStore – Pharmacy Inventory & Sales System
+  - -TourMate – Travel Itinerary Planner
+- Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+## Day 21 - Scenario Based
+Date: 09-Jan-2026
+- Solved 3 scenario based question
+  - Scenarios Covered:
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+- Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
 
 

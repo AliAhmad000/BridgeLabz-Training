@@ -131,5 +131,62 @@ Date: 09-Jan-2026
   - SkillForge – Online Learning Portal
 - Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
 
+---
+
+### 📅 Day 23 – Practiced Scenario-based Problems
+**(Date: 12-Jan-2026)**
+
+- Solved Scenario based problems
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform  
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+### 📅 Day 24 – Practiced Scenario-based Problems
+**(Date: 13-Jan-2026)**
+
+- Solved Scenario based problems
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary – Design and implement a Bird Sanctuary system
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+### 📅 Day 27 – Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems
+  - To compare line segments
+  - Bag-n-Ball Organizer
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+### 📅 Day 28 – Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problem for Address Book System
+  - Adds a new contact (with validation for duplicates)
+  - Edits and delete an existing contact by name
+  - Searches contacts by city or state
+  - Displays all contacts sorted alphabetically
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
 
 

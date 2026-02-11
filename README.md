@@ -224,3 +224,323 @@ Date: 09-Jan-2026
   - FoodLoop – Restaurant Ordering System
   - SkillForge – Online Learning Portal
 - Code Link: [ScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+## Week 5 – Scenario Based Questions ##
+
+### 🗓 Day 22 –  Practiced Scenario-based Problems
+**(Date: 10-Jan-2026)**
+
+- Solved Scenario based problems
+  - BookShelf – Library Organizer 
+  - BrowserBuddy – Tab History Manager
+  - AmbulanceRoute – Emergency Patient Navigation
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 23 –  Practiced Scenario-based Problems
+**(Date: 12-Jan-2026)**
+
+- Solved Scenario based problems on oops
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+- Solved Scenario based problems on dsa
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly Linked List)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 24 –  Practiced Scenario-based Problems
+**(Date: 13-Jan-2026)**
+
+- Solved Scenario based problems on oops
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary – Design and implement a Bird Sanctuary system
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+- Solved Scenario based problems on dsa
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 25 –  Practiced Scenario-based Problems on DSA
+**(Date: 15-Jan-2026)**
+
+- Solved Scenario based problems
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 26 –  Practiced Scenario-based Problems on DSA
+**(Date: 16-Jan-2026)**
+
+- Solved Scenario based problems on DSA
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 27 –  Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems on DSA.
+
+👉 [Scenario Based Problems DSA](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+- Studied the concept of Generics in Java.
+- Learned generic classes, generic methods, and bounded types.
+
+👉 [Generics](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com/generics)
+
+- Solved Scenario based problems on OOPS.
+
+👉 [Scenario Based Problems OOPS](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 28 –  Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problems on DSA.
+
+👉 [Scenario Based Problems DSA](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+
+👉 [Collection Framework](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com/collections)
+
+- Solved Scenario based problems on OOPS.
+
+👉 [Scenario Based Problems OOPS](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedPrograms/src/com)
+
+---
+
+### 🗓 Day 29 – Practiced Scenario-based Problems & Java Streams  
+**(Date: 20-Jan-2026)**
+
+- Solved scenario-based problems on DSA using sorting techniques (Insertion, Merge, Quick Sort).
+- Studied Java Streams for efficient data processing.
+- Learned file handling using Java Streams.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)  
+👉 [Java Streams](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com/streams)
+
+---
+
+### 🗓 Day 30 – Practiced Scenario-based Problems & Exception Handling  
+**(Date: 21-Jan-2026)**
+
+- Solved scenario-based problems on DSA involving sorting and data organization use cases.
+- Studied Java Exception Handling concepts and exception hierarchy.
+- Practiced handling exceptions using try-catch-finally blocks.
+- Implemented custom exception handling using throw and throws.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)  
+👉 [Exception Handling](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com/exceptionhandling)
+
+---
+
+### 🗓 Day 31 – Regex and JUnit  
+**(Date: 22-Jan-2026)**
+
+- Studied Regular Expressions (Regex) for pattern matching in Java.
+- Practiced using regex for validation and text processing.
+- Learned the basics of JUnit for unit testing in Java.
+- Implemented test cases using JUnit annotations and assertions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 31 – Regex and JUnit](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com)
+
+---
+
+### 🗓 Day 32 – Annotations and Reflection  
+**(Date: 23-Jan-2026)**
+
+- Studied Java Annotations and their purpose.
+- Learned built-in and custom annotations.
+- Understood Java Reflection API and its use cases.
+- Practiced accessing fields, methods, and constructors using reflection.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 32 – Annotations and Reflection](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/com)
+
+---
+
+### 🗓 Day 34 – Practiced Scenario-based Problems  
+**(Date: 27-Jan-2026)**
+
+- Solved Scenario based problems
+  - ResumeAnalyzer – Resume data handling using I/O Streams, Regex, Collections, and Exception Handling
+  - TravelLog – File handling with Serialization, Regex-based search, and Collection-based summarization
+  - FeedbackGuru – Text file handling using I/O, Regex extraction, Generics, and Exception Handling
+  - CodeRepoCleaner – File scanning and organization using I/O, Regex validation, Streams, and Collections
+  - ExamScanner – CSV file handling, Regex-based validation, Generics, and result processing using Collections
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---
+
+### 🗓 Day 35 – Scenario-based Problems & CSV Data Handling  
+**(Date: 28-Jan-2026)**
+
+- Solved real-world scenario-based problems involving CSV processing, Regex validation, Collections, Generics, and Custom Exception Handling.
+- Studied the structure and format of CSV files.
+- Learned reading and processing CSV data using FileReader and BufferedReader.
+- Practiced parsing, validation, and error handling for CSV records.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)  
+👉 [CSV Data Handling](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/csv)
+
+---
+
+### 🗓 Day 36 – JSON Data Handling 
+**(Date: 29-Jan-2026)**
+
+- Studied JSON data structure and validation concepts.
+- Learned converting CSV data into JSON format.
+- Practiced validating JSON data generated from CSV files.
+- Implemented error handling for invalid or inconsistent data.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 36 – JSON Data Handling (CSV to JSON Validation)](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/json)
+
+---
+
+### 🗓 Day 37 – Practiced Scenario-based Problems  
+**(Date: 30-Jan-2026)**
+
+- Solved Scenario based problems
+  - HealthCheckPro – Annotation-based API metadata handling using Reflection and auto documentation generation
+  - MarkMate – CSV file handling with data processing and JSON report generation
+  - EventTracker – Annotation-driven event handling using Reflection and structured JSON logging
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/senario-based-codebase/javaiostreamsscenariobased/src/javaiostreamsscenariobased/com)
+
+---
+
+### 🗓 Day 38 – Lambda and Functional Interface  
+**(Date: 31-Jan-2026)**
+
+- Studied the concept of Lambda expressions in Java.  
+- Learned Functional Interfaces and their purpose.  
+- Practiced implementing lambda expressions with functional interfaces.  
+- Explored built-in functional interfaces like Predicate, Consumer, Supplier, and Function.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 38 – Lambda and Functional Interface](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com)
+
+---
+
+### 🗓 Day 39 – Stream API  
+**(Date: 02-Feb-2026)**
+
+- Studied the concept of Stream API in Java.  
+- Learned intermediate and terminal stream operations.  
+- Practiced operations like filter, map, sorted, and collect.  
+- Implemented data processing using streams on collections.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 39 – Stream API](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/streamapi)
+
+---
+
+### 🗓 Day 40 – Collectors  
+**(Date: 03-Feb-2026)**
+
+- Studied the Collectors utility class in Java Stream API.  
+- Learned different collector methods like toList, toSet, toMap, and groupingBy.  
+- Practiced collecting and transforming stream data into various collections.  
+- Implemented grouping and partitioning operations using collectors.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 40 – Collectors](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/com/collectors)
+
+---
+
+### 🗓 Day 41 – Workshop: Smart City Transport & Service Management System  
+**(Date: 04-Feb-2026)**
+
+- Participated in workshop on Smart City Transport & Service Management System.  
+- Understood system design and real-world problem modeling.  
+- Practiced implementing scenario-based problems related to transport and service management.  
+- Applied collections and stream concepts in practical use cases.  
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 42 – Practiced Scenario-based Problems (Java 8)  
+**(Date: 05-Feb-2026)**
+
+- Solved scenario-based problems using Java 8 features.  
+- Applied Lambda expressions and Functional Interfaces in real-world cases.  
+- Used Stream API and Collectors for data processing.  
+- Practiced writing clean and optimized Java 8 code.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 42 – Scenario Based Java 8](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/java8scenariobased/src/com)
+
+---
+
+### 🗓 Day 43 – Case Study: Library Management System (Design Patterns & SOLID)  
+**(Date: 06-Feb-2026)**
+
+- Analyzed Library Management System using core Design Patterns.
+- Applied SOLID principles for better system architecture and maintainability.
+- Designed modular components following object-oriented best practices.
+- Evaluated scalability and extensibility using proper abstraction.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 43 – Library Management System Case Study](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/com/librarymanagementsystem)
+
+---

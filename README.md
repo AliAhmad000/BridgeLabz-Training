@@ -544,3 +544,23 @@ Date: 09-Jan-2026
 👉 [Day 43 – Library Management System Case Study](https://github.com/AliAhmad000/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/com/librarymanagementsystem)
 
 ---
+
+## Day 44 – MySql Scenario Based
+**Date:** 07-Feb-2026
+- Implemented a complete Hospital Management System covering Patient, Doctor, Appointment, Visit, Billing, and Admin modules.
+- Applied advanced SQL concepts including JOINs, subqueries, aggregate functions, transactions (COMMIT/ROLLBACK), and batch operations.
+- Ensured data integrity using Primary/Foreign Keys, constraints, triggers, and audit logs.
+- Used JDBC with PreparedStatements, ResultSet handling, and transaction management for secure and efficient database operations.
+- **Code Link:** [MySqlScenarioBased](https://github.com/AliAhmad000/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
+
+---
+
+## Day 46 – JDBC
+**Date:** 09-Feb-2026
+- Covered complete JDBC architecture and database connectivity with MySQL (DriverManager, Connection, Statement, PreparedStatement, ResultSet).
+- Implemented full CRUD operations with proper exception handling and try-with-resources.
+- Learned transaction management (COMMIT, ROLLBACK, Savepoints) and ACID properties.
+- Followed security and performance best practices including SQL injection prevention and indexing.
+- **Code Link:** [JDBC](https://github.com/AliAhmad000/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/jdbc/practice/src/main/java/practice)
+
+---

@@ -1,0 +1,12 @@
+/.metadata/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+bin/
+
+# Java class files
+*.class
